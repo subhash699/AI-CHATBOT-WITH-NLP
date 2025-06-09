@@ -32,3 +32,4 @@ In conclusion, **Task 3 helped me strengthen both my programming and NLP skills*
 
 OUTPUR:
 
+![Image](https://github.com/user-attachments/assets/fba79b5e-980a-4382-905f-13e8a80faa43)
