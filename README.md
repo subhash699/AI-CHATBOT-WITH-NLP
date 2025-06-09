@@ -12,10 +12,6 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-Here is a **550+ word description in paragraph format** for **Internship Task 3: AI Chatbot with NLP**, suitable for your report or submission:
-
----
-
 As part of my internship at **CodTech IT Solutions Pvt. Ltd.**, I was assigned **Task 3: Build an AI Chatbot using Natural Language Processing (NLP)**. This task involved designing and implementing a basic chatbot capable of interacting with users and responding to their queries using natural language understanding. The goal was to create a simple, text-based assistant that could demonstrate intelligent behavior through keyword-based intent recognition and pattern matching. This task allowed me to apply foundational concepts of **NLP** using Python and popular libraries like **NLTK (Natural Language Toolkit)**, which is a widely-used suite for text processing and language modeling.
 
 To complete the task, I used **Python 3.12.2** and wrote and executed the script using **IDLE Shell**, Python’s default integrated development environment. IDLE is easy to set up and efficient for writing interactive Python programs. The development process began with installing the `nltk` library using the command `pip install nltk`, followed by downloading necessary resources such as the `punkt` tokenizer using `nltk.download('punkt')`, which is essential for breaking text into words or sentences.
