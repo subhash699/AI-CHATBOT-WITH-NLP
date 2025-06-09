@@ -30,6 +30,6 @@ This project not only helped me understand the **basics of natural language proc
 
 In conclusion, **Task 3 helped me strengthen both my programming and NLP skills**. It taught me how natural language data can be interpreted by machines and how a simple chatbot can be made responsive and user-friendly. The task showcased the power of Python in solving real-world problems and gave me valuable insights into how intelligent systems communicate with users in human-like ways.
 
-OUTPUR:
+OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/fba79b5e-980a-4382-905f-13e8a80faa43)
