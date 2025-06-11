@@ -3,15 +3,15 @@ from nltk.tokenize import word_tokenize
 import random
 nltk.download('punkt_tab')
 
-responses = {
-    'greeting': ['Hello!', 'Hi there!', 'Hey!', 'Greetings!'],
-    'name': ['I am CodTechBot.', 'You can call me CodTechBot.', 'CodTechBot at your service.'],
-    'help': ['I can answer simple questions. Ask me anything!', 'What do you want to know?'],
-    'goodbye': ['Goodbye!', 'See you later!', 'Have a great day!'],
-    'default': ["Sorry, I didn't understand that. Can you ask something else?"]
+responses={
+    'greeting':['Hello!', 'Hi there!', 'Hey!', 'Greetings!'],
+    'name':['I am CodTechBot.', 'You can call me CodTechBot.', 'CodTechBot at your service.'],
+    'help':['I can answer simple questions. Ask me anything!', 'What do you want to know?'],
+    'goodbye':['Goodbye!', 'See you later!', 'Have a great day!'],
+    'default':["Sorry, I didn't understand that. Can you ask something else?"]
 }
 
-keywords = {
+keywords={
     'greeting': ['hello', 'hi', 'hey', 'greetings'],
     'name': ['your name', 'who are you', 'what is your name'],
     'help': ['help', 'can you help', 'what can you do'],
